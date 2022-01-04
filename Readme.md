@@ -13,3 +13,6 @@ each class can be turned into a table
 Generic servlet service to service each servlet for each class
 
 no jacoco line coverage for now, would implement later if I get to work on it
+
+main documentation:
+https://github.com/211025-Enterprise/best_orm_p1
